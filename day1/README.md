@@ -12,3 +12,10 @@
  - 편향 이해
  - 다층신경망 이해
  - 역전파알고리즘
+
+1. 과제
+
+선형대수, 행렬 관련 학습 자료를 찾아서 보세요.
+
+- [인공지능을 위한 선형대수, edwith](https://www.edwith.org/linearalgebra4ai)
+- [행렬 관련 태그, 수학방](https://mathbang.net/tag/%ED%96%89%EB%A0%AC#gsc.tab=0)
