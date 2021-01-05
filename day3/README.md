@@ -9,6 +9,8 @@
 ### 행렬의 연산
 
 - [행렬연산과 선형조합](https://velog.io/@rapsby/%ED%96%89%EB%A0%AC%EC%97%B0%EC%82%B0%EA%B3%BC-%EC%84%A0%ED%98%95%EC%A1%B0%ED%95%A9)
+- [벡터 연산- 분해, 내적/외적](https://mrw0119.tistory.com/12)
+- [행렬곱셈,수학방](https://mathbang.net/562)
 
 
 ## 2. 관련 링크
