@@ -11,13 +11,15 @@
 - [행렬연산과 선형조합](https://velog.io/@rapsby/%ED%96%89%EB%A0%AC%EC%97%B0%EC%82%B0%EA%B3%BC-%EC%84%A0%ED%98%95%EC%A1%B0%ED%95%A9)
 - [벡터 연산- 분해, 내적/외적](https://mrw0119.tistory.com/12)
 - [행렬곱셈,수학방](https://mathbang.net/562)
-
+- [제곱합](https://support.minitab.com/ko-kr/minitab/18/help-and-how-to/modeling-statistics/anova/supporting-topics/anova-statistics/understanding-sums-of-squares/)
 
 ## 2. 관련 링크
 
  - [위키백과:TeX 문법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
  - 온라인 라텍스 편집기
     - https://www.codecogs.com/latex/eqneditor.php
+
+ - [
 
 선형대수, 행렬 관련 학습 자료를 찾아서 보세요.
 
