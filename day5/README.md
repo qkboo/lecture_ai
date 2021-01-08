@@ -7,6 +7,7 @@
 ## 2. EDA 과정 살펴보기
 
  - box 공유의 데이터세트 이용: 노출 금지.
+ - 첨부 [EDA-seaborn.ipynb](./EDA-seaborn.ipynb)
 
 ## 3. 평가
 
